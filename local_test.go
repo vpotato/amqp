@@ -6,7 +6,7 @@ import (
 	"net"
 	"testing"
 
-	"pack.ag/amqp"
+	"github.com/interconnectedcloud/go-amqp"
 )
 
 // Tests that require a local broker running on the standard AMQP port.

@@ -27,8 +27,8 @@ import (
 	"github.com/Azure/go-autorest/autorest/adal"
 	"github.com/Azure/go-autorest/autorest/azure"
 	"github.com/fortytw2/leaktest"
-	"pack.ag/amqp"
-	"pack.ag/amqp/internal/testconn"
+	"github.com/interconnectedcloud/go-amqp"
+	"github.com/interconnectedcloud/go-amqp/internal/testconn"
 )
 
 func init() {
