@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/interconnectedcloud/go-amqp"
+	"github.com/vpotato/amqp"
 )
 
 func Example() {

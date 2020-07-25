@@ -15,7 +15,7 @@ This library aims to be stable and worthy of production usage, but the API is st
 ## Install
 
 ```
-go get -u github.com/interconnectedcloud/go-amqp
+go get -u github.com/vpotato/amqp
 ```
 
 ## Contributing
@@ -33,7 +33,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/interconnectedcloud/go-amqp"
+	"github.com/vpotato/amqp"
 )
 
 func main() {

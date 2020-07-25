@@ -1,4 +1,4 @@
-PACKAGE := github.com/interconnectedcloud/go-amqp
+PACKAGE := github.com/vpotato/amqp
 FUZZ_DIR := ./fuzz
 
 all: test

@@ -6,7 +6,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/interconnectedcloud/go-amqp/internal/testconn"
+	"github.com/vpotato/amqp/internal/testconn"
 )
 
 func FuzzConn(data []byte) int {

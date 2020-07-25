@@ -1,4 +1,4 @@
-module github.com/interconnectedcloud/go-amqp
+module github.com/vpotato/amqp
 
 go 1.13
 

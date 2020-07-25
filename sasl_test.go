@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/base64"
 	"fmt"
-	"github.com/interconnectedcloud/go-amqp/internal/testconn"
+	"github.com/vpotato/amqp/internal/testconn"
 	"strings"
 	"testing"
 	"time"
